@@ -7,9 +7,9 @@ This was an email which attempts to get the victim to click on the link. Unfortu
 Numerous traits of this email have been highlighted which point to this being a phiching email:
 1. The "Microsoft" logo is certainly not the legitimate logo. The official Microsfot logo is shown below:
 
-[!Official Microsoft logo](https://github.com/SeanWrightSec/phishing-examples/blob/main/microsoft-password-expiration/RE1Mu3b.png)
+![Official Microsoft logo](https://github.com/SeanWrightSec/phishing-examples/blob/main/microsoft-password-expiration/RE1Mu3b.png)
 
-As can be seen, firstly the colours of the logo do not match, especially the windows part of the logo. Secondly the wording of Microsoft on the official logo does not overlap the windows logo.
+  As can be seen, firstly the colours of the logo do not match, especially the windows part of the logo. Secondly the wording of Microsoft on the official logo does not overlap the windows logo.
 
 2. The punctuation of the name is incorrect, it should start with an upper case. This points to possibility of them using the username instead of fullname of the "employee". IT departments will hardly ever address employees using their username, instead using the employee's actual name.
 3. The punctuation on 'Password' is incorrect, it should be a lower case 'p'.
