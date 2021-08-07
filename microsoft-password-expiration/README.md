@@ -10,7 +10,7 @@ Numerous characteristics of them email raise suspicions over it:
 
 ![Flag 1](https://github.com/SeanWrightSec/phishing-examples/blob/main/microsoft-password-expiration/flag-1.png)
 
-The "Microsoft" logo is certainly not the legitimate logo. The official Microsfot logo is shown below:
+The "Microsoft" logo is certainly not the legitimate logo. The official Microsoft logo is shown below:
 
 ![Official Microsoft logo](https://github.com/SeanWrightSec/phishing-examples/blob/main/microsoft-password-expiration/RE1Mu3b.png)
 
