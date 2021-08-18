@@ -1,6 +1,6 @@
 # voicemail-sms
 
-This was a sms/text message which attempted to potray that it was from the victim's mobile phone provider informing the victim that they had a missed call attempting to get the victim to navitage to the link in the sms/text.
+This was a sms/text message which attempted to potray that it was from the victim's mobile phone provider informing the victim that they had a missed call attempting to get the victim to navitage to the link in the sms/text. A lot of these links in these messages do seem to point to valid and legitimate sites, but those appear to have become compromised to host the attacker's payload.
 
 ![Screenshot of sms/text](https://github.com/SeanWrightSec/phishing-examples/blob/main/voicemail-sms/IMG_2088.jpeg)
 
