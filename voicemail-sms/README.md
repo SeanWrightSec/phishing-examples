@@ -26,4 +26,4 @@ Spelling mistakes are often a very good indication of a potential phishing email
 
 ![Flag 3](https://github.com/SeanWrightSec/phishing-examples/blob/main/voicemail-sms/flag-3.png)
 
-This is again another flag. Typically if had a voicemail, you would use your mobile provider's voicemail inbox on your account which is accessed by dialing the voicemail number or with more modern phones this ties directly with the mobile OS and you can listen to the voicemail directly. I've in all my years, never have once needed to access a voicemail via a link to a site.
+This is again another flag. Typically if had a voicemail, you would use your mobile provider's voicemail inbox on your account which is accessed by dialing the voicemail number or with more modern phones this ties directly with the mobile OS and you can listen to the voicemail directly. I've in all my years, never have once needed to access a voicemail via a link to a site. Also this being a HTTP site (as opposed to HTTPS) also raises suspicions. Most providers would typically use HTTPS (it is worth noting that just because HTTPS is used, doesn't necessarily make it legitimate still).
